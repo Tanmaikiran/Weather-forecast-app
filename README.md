@@ -1,14 +1,14 @@
 
-# 🌤️ Weather Forecast App
+# Weather Forecast App
 
 This is a simple real-time weather forecast app built using Python and Streamlit. It fetches current weather data from the OpenWeatherMap API and displays it based on user input.
 
-## 🔧 Tech Stack
+##  Tech Stack
 - Python
 - Streamlit
 - OpenWeatherMap API
 
-## 🚀 How to Run
+## How to Run
 1. Clone this repo or download the files
 2. Install dependencies:
    ```
@@ -20,7 +20,7 @@ This is a simple real-time weather forecast app built using Python and Streamlit
    streamlit run app.py
    ```
 
-## 💡 Features
+##  Features
 - Fetches real-time weather data
 - User inputs city name
 - Displays temperature, weather description, and wind speed
